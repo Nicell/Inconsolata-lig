@@ -1,5 +1,5 @@
 # Inconsolata-lig
-Inconsolata-lig is a modified version of the [Inconsolate-g font](https://leonardo-m.livejournal.com/77079.html) with included programming ligatures.
+Inconsolata-lig is a modified version of the [Inconsolata-g font](https://leonardo-m.livejournal.com/77079.html) with included programming ligatures.
 
 <img src="./showcase.png">
 
