@@ -4,7 +4,7 @@ FullName: Inconsolata-lig
 FamilyName: Inconsolata-lig
 Weight: Medium
 Copyright: Created by Raph Levien using his own tools and FontForge. Copyright 2006 Raph Levien. Released under the SIL Open Font License, http://scripts.sil.org/OFL. Modified by maffi leonardo, Feb 13 2009. Modified by Nick Winans, August 1 2018
-Version: 001.010
+Version: 001.011
 ItalicAngle: 0
 UnderlinePosition: -150
 UnderlineWidth: 50
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1161020814
-ModificationTime: 1565831998
+ModificationTime: 1565833255
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -468,7 +468,8 @@ StartChar: hyphen
 Encoding: 45 45 14
 Width: 600
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 316 77<91 508>
 LayerCount: 2
 Fore
 SplineSet
@@ -519,9 +520,9 @@ StartChar: zero
 Encoding: 48 48 17
 Width: 600
 GlyphClass: 2
-Flags: HW
-HStem: 416.113 9.53382e-012<321.386 321.386> 416.113 1.92878e-011<321.386 321.386> 416.113 9.53382e-012<321.386 321.386>
-VStem: 321.386 8.00125e-006<416.113 416.113> 321.386 1.45223e-005<416.113 416.113> 321.386 9.69849e-006<416.113 416.113>
+Flags: W
+HStem: -13 71<237.689 371.077> 303.156 116.344<264.99 327.421> 656 71<230.528 366.653>
+VStem: 45.5 66<216.549 493.14> 255.805 80.8574<310.232 412.424> 474.5 80<196.45 502.95>
 LayerCount: 2
 Fore
 SplineSet
@@ -9023,7 +9024,7 @@ StartChar: .null
 Encoding: 0 -1 294
 Width: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Validated: 1
@@ -9033,7 +9034,7 @@ StartChar: nonmarkingreturn
 Encoding: 13 -1 295
 Width: 600
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Validated: 1
@@ -9043,7 +9044,8 @@ StartChar: equals_greater.liga
 Encoding: 65544 -1 296
 Width: 1200
 GlyphClass: 3
-Flags: HW
+Flags: W
+HStem: 209 71<58 769> 449 71<58 759>
 LayerCount: 2
 Fore
 SplineSet
@@ -9073,7 +9075,7 @@ StartChar: LIG
 Encoding: 65545 -1 297
 Width: 600
 GlyphClass: 2
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Validated: 1
@@ -9083,7 +9085,8 @@ StartChar: equal_equal.liga
 Encoding: 65546 -1 298
 Width: 1200
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 209 71<56 1138> 449 71<56 1138>
 LayerCount: 2
 Fore
 SplineSet
@@ -9111,7 +9114,9 @@ StartChar: equal_equal_equal.liga
 Encoding: 65547 -1 299
 Width: 1800
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 120 71<56 1738> 329 71<56 1738> 538 71<56 1738>
+CounterMasks: 1 e0
 LayerCount: 2
 Fore
 SplineSet
@@ -9139,7 +9144,8 @@ StartChar: exclamation_equal.liga
 Encoding: 65548 -1 300
 Width: 1200
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 209 71<56 457 598 1138> 449 71<56 597 738 1138>
 LayerCount: 2
 Fore
 SplineSet
@@ -9174,7 +9180,8 @@ StartChar: exclamation_equal_equal.liga
 Encoding: 65549 -1 301
 Width: 1800
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: -4 21G<632 743.613> 120 71<56 704 846 1738> 334 71<56 829 967 1738> 538 71<56 948 1089 1738>
 LayerCount: 2
 Fore
 SplineSet
@@ -9216,7 +9223,8 @@ EndChar
 StartChar: greater_equal_liga
 Encoding: 65550 -1 302
 Width: 1200
-Flags: HW
+Flags: W
+HStem: -121 71<233.39 975.625>
 LayerCount: 2
 Fore
 SplineSet
